@@ -1,0 +1,49 @@
+body, * {
+    margin: 0;
+    padding: 0;
+    font-family: "open-sans";
+  }
+.mainContainer {
+    height: 100vh;
+    background-color: white;
+    margin: 0px auto;
+    max-width: 1400px;
+
+}
+.mainHeading {
+    font-size: 80px;
+    font-weight: 800;
+    color: black;
+    margin-bottom: 20px;
+
+}
+
+button {
+    font-size: 28px;
+    font-weight: 600;
+    padding: 20px 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: black;
+    margin-right: 20px;
+}
+
+.backgroundText {
+    background-color: black;
+    font-size: 30px;
+    font-weight: 800;
+    border-radius: 20px;
+    padding: 20px 40px;
+    margin: 20px 0px;
+    color: white;
+}
+.backgroundText span {
+    margin-left: 20px;
+    color: #49a6e9;
+}
+
+.bottomText {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
